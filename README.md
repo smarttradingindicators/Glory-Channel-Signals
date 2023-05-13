@@ -1,6 +1,6 @@
 # 🚀 Glory Channel Signals | smarttradingindicators.com
 
-![Glory Channel Signals](GloryChannelSignals1D.png)
+![Glory Channel Signals](Glory%20Channel%20Signals%201D.png)
 
 Welcome to Glory Channel Signals, an innovative trading tool that leverages the power of artificial intelligence and robust filtering techniques for financial market analysis. Glory Channel Signals delivers real-time visual signals, enabling traders to capture lucrative opportunities in the financial markets.
 
