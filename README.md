@@ -1,4 +1,4 @@
-# 🚀 Glory Channel Signals | smarttradingindicators.com
+# 🚀 Glory Channel Signals A.I
 
 ![Glory Channel Signals](Glory%20Channel%20Signals%201D.png)
 
