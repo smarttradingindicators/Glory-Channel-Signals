@@ -39,6 +39,13 @@ Trading involves risk. Glory Channel Signals is a supplementary tool designed to
 
 We're eager to hear from you! For questions, feedback, or suggestions, please contact us at support@smarttradingindicators.com.
 
+## 📱 Social Media
+
+Follow us on our social media platforms for the latest updates and insights:
+
+- [Instagram: @smarttradingindicators](https://instagram.com/smarttradingindicators?igshid=OGQ5ZDc2ODk2ZA==)
+- [Twitter: @smartindicators](https://twitter.com/smartindicators)
+
 ## 🔒 Note on Code Access
 
 The code for Glory Channel Signals is proprietary and not publicly accessible. For inquiries about the code or if you need further information, don't hesitate to reach out at support@smarttradingindicators.com. We appreciate your understanding.
